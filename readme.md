@@ -1,11 +1,12 @@
-# WebScraping
-## with jupyter notebook
+# Projects
+
+## WebScraping with jupyter notebook
 
 This is a simple repository for web scraping with Jupyter Notebook.
-
-The notebook code is [here](https://github.com/hanchak/WebScrape/blob/master/ScrapeTheWeather.ipynb). 
+The notebook code can be found [here](https://github.com/hanchak/WebScrape/blob/master/ScrapeTheWeather.ipynb). 
 It's based off of code I found at this [site](https://www.dataquest.io/blog/web-scraping-tutorial-python/).
 
-## Other links I like:
+# Links I like:
 - [google](https://www.google.com)
 - [reason](https://www.reason.com)
+- [amazon](https://www.amazon.com)
