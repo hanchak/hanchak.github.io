@@ -1,6 +1,8 @@
 # News:
 
 ## Oct 2017
+I've been looking for an easy-to-use 3D graphics program fro python.  Matplotlib is nice, but its 3D capabilities are limited.  Anyway, I found [visvis](https://github.com/almarklein/visvis).  Also, [pyqtgraph](http://www.pyqtgraph.org/) is pretty nice too, although it looks like it is not being developed anymore.
+
 I just started using [pyzo](http://www.pyzo.org/) as a python IDE. I like that it is much faster to load than spyder and has a nice looking interface. 
 
 ## Sep 2017
